@@ -24,8 +24,8 @@ One can search, navigate, and modify data using a parser. It’s versatile and s
 7) Check if products are found; if not, display "No products found."
 8) Visualize Product Data using a Bar Chart
 
-## NAME: R Anirudh
-## REG NO: 212223230016
+## NAME: YUVARAJ V
+## REG NO: 212223230252
 ### Program:
 ```PYTHON
 import matplotlib.pyplot as plt
